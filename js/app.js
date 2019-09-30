@@ -33,3 +33,7 @@ which makes it easier
 // single line comment
 /* multiline 
 comment */
+
+let baz = 'Hello y\all'; // escaping the character
+let baz2 = "Hello y'all"; // wrap with the opposite uote
+let baz3 = 'Hello "you guys"'; // wrap with the opposite quote
