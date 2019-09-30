@@ -7,6 +7,7 @@ var foo2 = 1; // int
 var foo3 = []; // array literal
 var foo4 = {}; // object literal
 var foo5 = true; // bolean true/false
+// page 69
 // Don't use a reserved keywrod ie break, return, boolean
 // Don't start with a number ie var 9lives
 // Variables are case sensitive ie FOO !== foo
@@ -34,6 +35,7 @@ which makes it easier
 /* multiline 
 comment */
 
+
 let baz = 'Hello y\all'; // escaping the character
 let baz2 = "Hello y'all"; // wrap with the opposite uote
 let baz3 = 'Hello "you guys"'; // wrap with the opposite quote
@@ -54,11 +56,11 @@ console.log(baz6);
 
 let baz8 = 50, baz9 = 10;
 let baz10 = baz8 + baz9; // 15
-// let baz10 = 'baz8 + baz9'; // has already been declared once, can't be declared twice
+// let baz10 = 'baz8 + baz9'; // you can not declare the same variable twice
 
 console.log(baz10);
 
-let baz11 = baz10 = baz9;
+let baz11 = baz10 = baz5;
 
 console.log(baz11, baz10, baz5);
 
@@ -70,3 +72,4 @@ console.log(baz11, baz10, baz5);
 // increment "++""
 // decrement "--"
 // modulus "%"
+
