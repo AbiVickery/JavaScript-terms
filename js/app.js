@@ -37,3 +37,22 @@ comment */
 let baz = 'Hello y\all'; // escaping the character
 let baz2 = "Hello y'all"; // wrap with the opposite uote
 let baz3 = 'Hello "you guys"'; // wrap with the opposite quote
+
+// page 67
+let baz4 = 'foo';
+
+let baz5, baz6, baz7;
+console.log(baz5); // undefined
+
+baz5 = 'bar';
+console.log(baz5); // string bar
+baz6 = 'foo';
+baz7 = 'bar';
+
+console.log(baz6);
+
+
+let baz8 = 5, baz9 = 10;
+let baz10 = baz8 + baz9;
+
+console.log(baz9);
