@@ -73,6 +73,10 @@ console.log(baz11, baz10, baz5);
 // decrement "--"
 // modulus "%"
 
-let yo = 'Hello' + 'World!';
+let yo = 'Hello ' + 'World!';
 //php $yo = 'Hello ' . 'World!';
 console.log(yo);
+let i = 2;
+i++;
+let yo2 = i++;
+console.log(yo2);
