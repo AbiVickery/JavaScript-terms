@@ -65,7 +65,7 @@ let baz11 = baz10 = baz5;
 console.log(baz11, baz10, baz5);
 
 // page 76
-// addition "+"
+// addition "+" / concatenation operator
 // subtraction "-"
 // multiplication "*"
 // division "/"
