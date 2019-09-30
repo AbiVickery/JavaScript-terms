@@ -61,3 +61,12 @@ console.log(baz10);
 let baz11 = baz10 = baz9;
 
 console.log(baz11, baz10, baz5);
+
+// page 76
+// addition "+"
+// subtraction "-"
+// multiplication "*"
+// division "/"
+// increment "++""
+// decrement "--"
+// modulus "%"
