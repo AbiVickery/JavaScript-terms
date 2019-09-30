@@ -53,7 +53,7 @@ console.log(baz6);
 
 
 let baz8 = 5, baz9 = 10;
-let baz10 = baz8 + baz9;
+let baz10 = baz8 + baz9; // 15
 // let baz10 = 'baz8 + baz9'; // has already been declared once, can't be declared twice
 
 console.log(baz9);
