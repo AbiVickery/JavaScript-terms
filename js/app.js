@@ -59,3 +59,5 @@ let baz10 = baz8 + baz9; // 15
 console.log(baz10);
 
 let baz11 = baz10 = baz9;
+
+console.log(baz11, baz10, baz5);
