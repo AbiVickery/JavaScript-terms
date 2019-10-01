@@ -98,3 +98,15 @@ console.log('You earn this many hours per year to take a vacay:', PTOperYearInHo
 // console.log('You earn this many days per year to take a vacay: ',phy);
 
 var supercalifragilisticexpialidocious;
+
+
+
+
+let hrsPerPayCheck = 3;
+let weeksThisYear = 9 * 4;
+let PTOtoDate = hrsPerPayCheck * (weeksThisYear/2);
+let PTOtakenToDate = 32;
+let remainderPTOtoDate = PTOtoDate - PTOtakenToDate;
+// debugger
+console.log("you have used " + PTOtakenToDate + " hours this year");
+console.log("You have " + remainderPTOtoDate + " hours left, which is " + remainderPTOtoDate/8 + " days or " + remainderPTOtoDate/40 + " weeks. Thank you.");
