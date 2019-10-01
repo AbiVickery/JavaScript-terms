@@ -110,3 +110,7 @@ let remainderPTOtoDate = PTOtoDate - PTOtakenToDate;
 // debugger
 console.log("you have used " + PTOtakenToDate + " hours this year");
 console.log("You have " + remainderPTOtoDate + " hours left, which is " + remainderPTOtoDate/8 + " days or " + remainderPTOtoDate/40 + " weeks. Thank you.");
+
+
+
+// psuedo code for investment calculator
