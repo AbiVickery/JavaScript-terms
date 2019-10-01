@@ -92,9 +92,9 @@ let hoursPerCheck = 5;
 let PTOperYearInHours = paychecks * hoursPerCheck;
 console.log('You earn this many hours per year to take a vacay:', PTOperYearInHours/8);
 
-let p = 26;
-let h = 3;
-let phy = p * h;
-console.log('You earn this many days per year to take a bacay: ',phy);
+// let p = 26;
+// let h = 3;
+// let phy = p * h;
+// console.log('You earn this many days per year to take a bacay: ',phy);
 
 var supercalifragilisticexpialidocious;
