@@ -82,6 +82,6 @@ i++;
 let yo2 = i++;
 console.log(yo2);
 
-let dollarAnHour = 200;
-let yearlyPay = dollarsAnHour * 2000;
-console.log(yearlyPay);
+let dollarsAnHour = 20;
+let centrylyPay = dollarsAnHour * 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
+console.log(centrylyPay);
