@@ -95,6 +95,6 @@ console.log('You earn this many hours per year to take a vacay:', PTOperYearInHo
 // let p = 26;
 // let h = 3;
 // let phy = p * h;
-// console.log('You earn this many days per year to take a bacay: ',phy);
+// console.log('You earn this many days per year to take a vacay: ',phy);
 
 var supercalifragilisticexpialidocious;
