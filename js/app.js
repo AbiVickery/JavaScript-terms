@@ -85,3 +85,12 @@ console.log(yo2);
 let dollarsAnHour = 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000;
 let yearlyPay = dollarsAnHour * 2000;
 console.log(yearlyPay);
+
+//PTO
+let paychecks = 26;
+let hoursPerCheck = 5;
+let PTOperYearInHours = paychecks * hoursPerCheck;
+console.log('You earn this many hours per year to take a vacay:', PTOperYearInHours/8);
+
+
+var supercalifragilisticexpialidocious;
