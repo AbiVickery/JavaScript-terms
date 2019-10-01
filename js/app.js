@@ -132,3 +132,4 @@ SAY outcome;
 
 
 VRDisplayCapabilities(Infinity);
+VRDisplay(Infinity);
