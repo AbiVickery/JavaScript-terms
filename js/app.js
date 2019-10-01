@@ -125,5 +125,6 @@ SET VAR investType // var investType;
 SET FUNCTION math // function
 SET FUNCTION button // function
 SET VAR outcome // var outcome = (amount/2);
-SAY outcome
+debugger;
+SAY outcome;
 */
