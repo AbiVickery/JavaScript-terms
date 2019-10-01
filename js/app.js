@@ -128,3 +128,7 @@ SET VAR outcome // var outcome = (amount/2);
 debugger;
 SAY outcome;
 */
+
+
+
+VRDisplayCapabilities(Infinity);
