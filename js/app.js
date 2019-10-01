@@ -114,3 +114,16 @@ console.log("You have " + remainderPTOtoDate + " hours left, which is " + remain
 
 
 // psuedo code for investment calculator
+/*
+SET VAR money; // var money;
+SET VAR moneyAmount; // var moneyAmount;
+SET VAR moneyType; // var moneyType;
+SET VAR amount = 5 * money; // var ammount = 5 * (money);
+SET VAR invest // var invest;
+SET VAR investAmount // var investAmount;
+SET VAR investType // var investType;
+SET FUNCTION math // function
+SET FUNCTION button // function
+SET VAR outcome // var outcome = (amount/2);
+SAY outcome
+*/
